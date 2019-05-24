@@ -231,7 +231,7 @@ class Manager {
     static fixPermission() {
         return new Promise((resolve, reject) => {
             let windows = process.platform === "win32";
-            let Config = require('./lib/config/config');
+            let Config = require('cast-web-api/lib/config/config');
             let user =  process.env.USER || process.env.USERNAME;
             let path = Config.getAbsolutePath();
 

@@ -106,7 +106,7 @@ prog
             });
     })
 
-    .command('fix-perm', 'Changes permissions on /config to current user')
+    .command('fix-perm', 'Changes permissions on /config to current user. Will be removed in next release!')
     .action((args, options, logger) => {
         let spinner = Ora('Fixing permissions: ').start();
         Manager.fixPermission()
