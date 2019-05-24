@@ -11,11 +11,11 @@ CLI manager for [cast-web-api](https://github.com/vervallsweg/cast-web-api).
 You might run into [issues](https://github.com/vervallsweg/cast-web-api/issues/79) with the optional Google-Assistant integration.
 
 ## First steps
-    $ cast-web-api start
+    $ cast-web-api-cli start
 
 The server runs on your network ip:3000 by default. On error it defaults to 127.0.0.1. Adjustable via:
 
-	$ cast-web-api start -H 192.168.0.11 -p 8080
+	$ cast-web-api-cli start -H 192.168.0.11 -p 8080
 
 ## Usage
 
