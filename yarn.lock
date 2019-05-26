@@ -551,10 +551,10 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-cast-web-api@1.2.0-rc7:
-  version "1.2.0-rc7"
-  resolved "https://registry.yarnpkg.com/cast-web-api/-/cast-web-api-1.2.0-rc7.tgz#920ebd9b2a843a6a11cf821c144c855fb1f40132"
-  integrity sha512-CF5RGClYBV62AcGVyiyCJK3Bm6XGvlF6Yq197fBH6UzjLJggozfkW9PmQ1bSGArMmQevMPFK7JUfcaWyq8OVXA==
+cast-web-api@1.2.0-rc8:
+  version "1.2.0-rc8"
+  resolved "https://registry.yarnpkg.com/cast-web-api/-/cast-web-api-1.2.0-rc8.tgz#061c26c1296b751c252a2d669c678623cdce87db"
+  integrity sha512-h16Ab/aZoP8UTTDv76VEop/X0NepjYsz6wz42TWsZzM2ruwrVW08vhpEfcZo2kXJu4DoRiLI2Nh0TlC4XWym+Q==
   dependencies:
     castv2 "*"
     castv2-client "^1.2.0"
