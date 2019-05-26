@@ -1,7 +1,7 @@
 # cast-web-api-cli
-[![npm version](https://badge.fury.io/js/cast-web-api-desktop.svg)](https://badge.fury.io/js/cast-web-api-desktop)
-[![Dependency Status](https://img.shields.io/david/vervallsweg/cast-web-api-desktop.svg)](https://david-dm.org/vervallsweg/cast-web-api-desktop)
-[![npm](https://img.shields.io/npm/dm/cast-web-api-desktop.svg?maxAge=2592000)]()
+[![npm version](https://badge.fury.io/js/cast-web-api-cli.svg)](https://badge.fury.io/js/cast-web-api-cli)
+[![Dependency Status](https://img.shields.io/david/vervallsweg/cast-web-api-cli.svg)](https://david-dm.org/vervallsweg/cast-web-api-cli)
+[![npm](https://img.shields.io/npm/dm/cast-web-api-cli.svg?maxAge=2592000)]()
 
 CLI manager for [cast-web-api](https://github.com/vervallsweg/cast-web-api).
 
