@@ -9,11 +9,11 @@ prog
     .version(pkg.version)
 
     .command('start', 'Start cast-web-api as daemon')
-    .option('-H --hostname <host>', 'Hostname cast-web-api webserver should bind to')
-    .option('-p --port <port>', 'Port cast-web-api webserver should bind to')
-    .option('-d --debug <port>', 'Toggles debugging log messages')
-    .option('-a --autoConnect <port>', 'Cast devices auto connect on discovery, devices will reconnect regardless on address change.')
-    .option('-r --reconnectTimeout <port>', 'Cast devices trie to reconnect every x ms if it goes down')
+    .option('--hostname <host>', 'Hostname cast-web-api webserver should bind to')
+    .option('--port <port>', 'Port cast-web-api webserver should bind to')
+    .option('--debug <port>', 'Toggles debugging log messages')
+    .option('--autoConnect <port>', 'Cast devices auto connect on discovery, devices will reconnect regardless on address change.')
+    .option('--reconnectTimeout <port>', 'Cast devices trie to reconnect every x ms if it goes down')
 
     .action((args, options, logger) => {
         let spinner = Ora('Starting cast-web-api').start();
