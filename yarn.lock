@@ -551,10 +551,10 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-cast-web-api@1.2.0-rc8:
-  version "1.2.0-rc8"
-  resolved "https://registry.yarnpkg.com/cast-web-api/-/cast-web-api-1.2.0-rc8.tgz#061c26c1296b751c252a2d669c678623cdce87db"
-  integrity sha512-h16Ab/aZoP8UTTDv76VEop/X0NepjYsz6wz42TWsZzM2ruwrVW08vhpEfcZo2kXJu4DoRiLI2Nh0TlC4XWym+Q==
+cast-web-api@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/cast-web-api/-/cast-web-api-1.2.1.tgz#ad56647793a62d83fd1c214d4f6e2d8a9ee5a1a3"
+  integrity sha512-+Cw18oxXspGmogNJTa9KtwqwmZVJceUsYhUo6AOCR8eAFEHGpW21sP7dO2WdBWsXLu3mJZDDcsT0D0mkRBgqcg==
   dependencies:
     castv2 "*"
     castv2-client "^1.2.0"
@@ -1272,11 +1272,9 @@ finalhandler@~1.1.2:
     unpipe "~1.0.0"
 
 follow-redirects@^1.2.3:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.7.0.tgz#489ebc198dc0e7f64167bd23b03c4c19b5784c76"
-  integrity sha512-m/pZQy4Gj287eNy94nivy5wchN3Kp+Q5WgUPNy5lJSZ3sgkVKSYV/ZChMAQVIgx1SqfZ2zBZtPA2YlXIWxxJOQ==
-  dependencies:
-    debug "^3.2.6"
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 for-in@^1.0.2:
   version "1.0.2"
